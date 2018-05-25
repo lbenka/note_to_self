@@ -1,6 +1,4 @@
-(docs!)[https://trio.readthedocs.io/]
-
-https://github.com/python-trio/trio
+[docs](https://trio.readthedocs.io/) (github)[https://github.com/python-trio/trio]
 
 - whole new ecosystem for async which in not compatible
 - not compatible with currenct async libs
