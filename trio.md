@@ -1,4 +1,4 @@
-https://trio.readthedocs.io/
+(docs!)[https://trio.readthedocs.io/]
 
 https://github.com/python-trio/trio
 
